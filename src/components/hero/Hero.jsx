@@ -18,7 +18,7 @@ const textVariants = {
 
   scrollButton: {
     opactity: 0,
-    y: 40,
+    y: 30,
     transition: {
       duration: 3,
       repeat: Infinity,
